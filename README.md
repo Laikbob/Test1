@@ -2,4 +2,4 @@
 ## Pealkiri 2
 ### Pealkiri 3
 
-* Minu nimi on Andrei *
+*Minu nimi on Andrei*
